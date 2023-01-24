@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Em",
+      "image": "https://picsum.photos/200",
+      "text_message": "Hi, How are you?",
+      "date": "05/12/2022"
+    },
+    {
+        "name": "Alex",
+        "image": "https://picsum.photos/200",
+        "text_message": "Hi, How are you?",
+        "date": "05/12/2022"
+      },
+      {
+        "name": "Cleo",
+        "image": "https://picsum.photos/200",
+        "text_message": "Hi, How are you?",
+        "date": "05/12/2022"
+      },
+      {
+        "name": "Bella",
+        "image": "https://picsum.photos/200",
+        "text_message": "Hi, How are you?",
+        "date": "05/12/2022"
+      },
+    {
+      "name": "Mike",
+      "image": "https://picsum.photos/201",
+      "text_message": "Hello, How are you today?",
+      "date": "08/24/2022"
+    },
+    {
+      "name": "Jesse",
+      "image": "https://picsum.photos/202",
+      "text_message": "Hey, What's up?",
+      "date": "03/15/2022"
+    },
+    {
+      "name": "Jake",
+      "image": "https://picsum.photos/203",
+      "text_message": "Good morning, How's your day?",
+      "date": "07/05/2022"
+    },
+    {
+      "name": "Matt",
+      "image": "https://picsum.photos/204",
+      "text_message": "Good afternoon, How's everything?",
+      "date": "02/28/2022"
+    }
+  ]
+  
